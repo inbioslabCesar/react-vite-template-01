@@ -1,0 +1,38 @@
+.user{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+
+	border: 1px solid gray;
+	padding: 1rem;
+	border-radius: 1rem;	
+	margin-bottom: 1rem;
+}
+
+.id{
+	width: 4%;
+}
+
+.name{
+	width: 36%;
+	font-weight: bold;
+}
+
+.status, 
+.role,
+.action{
+	width: 20%;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.action button{
+	border-radius: 1rem;
+}
+
+
+
+
+
