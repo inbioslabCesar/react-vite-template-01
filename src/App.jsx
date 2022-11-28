@@ -15,7 +15,7 @@ const USERS = [
 	},
 	{
 		id: 3,
-		name: 'Cesar Perez',
+		name: 'Cesar Pérez',
 		active: false,
 		role: 'student'
 	}
